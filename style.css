@@ -1,0 +1,53 @@
+.btn-green {
+    border: none;
+    color: white;
+    background-color: blue;
+    padding: 10px 20px;
+    border-radius: 30px;
+    
+
+}
+.border-red {
+    border: 1px solid red;
+}
+
+.h-500 {
+    min-height: 100vh;
+}
+
+.home-page {
+    background-image: url(2.jpg);
+    background-size: cover;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.carousel-item img {
+    height: 600px;
+    object-fit: cover;
+    
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+footer a {
+    text-decoration: none;
+    color: #007bff;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+@media only  screen {
+    
+}
+.card img {
+    object-position: top;
+}
+
+
